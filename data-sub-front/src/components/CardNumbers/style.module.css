@@ -1,0 +1,22 @@
+.inputBox {
+  display: flex;
+  flex-direction: column;
+}
+
+.inputNumbers {
+  max-width: 160px;
+}
+
+.inputDateBox {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.inputDateMonth {
+  width: 30px;
+}
+
+.inputDateYear {
+  width: 50px;
+}
